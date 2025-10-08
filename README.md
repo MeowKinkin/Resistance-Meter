@@ -31,13 +31,13 @@ Where:
 ## ⚡ Circuit Diagram (ASCII Representation)
 
         D8 ── R1 ──┐
-        (5V)       │
+                   │
                    ├── A0 (TP1)
         D9 ── Rx ──┘
                    │
         D10 ── R3 ──┐
-        (GND)       │
-                   ├── A1 (TP2)
+                    │
+                    ├── A1 (TP2)
         D11 ────────┘
 
 
